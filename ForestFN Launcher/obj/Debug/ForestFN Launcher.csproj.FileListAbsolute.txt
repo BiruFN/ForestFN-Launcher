@@ -1,0 +1,24 @@
+C:\Users\BiruFN\Desktop\ForestFN\ForestFN Launcher\ForestFN Launcher\bin\Debug\ForestFN Launcher.exe.config
+C:\Users\BiruFN\Desktop\ForestFN\ForestFN Launcher\ForestFN Launcher\bin\Debug\ForestFN Launcher.exe
+C:\Users\BiruFN\Desktop\ForestFN\ForestFN Launcher\ForestFN Launcher\bin\Debug\ForestFN Launcher.pdb
+C:\Users\BiruFN\Desktop\ForestFN\ForestFN Launcher\ForestFN Launcher\bin\Debug\Guna.UI2.dll
+C:\Users\BiruFN\Desktop\ForestFN\ForestFN Launcher\ForestFN Launcher\obj\Debug\ForestFN Launcher.csproj.AssemblyReference.cache
+C:\Users\BiruFN\Desktop\ForestFN\ForestFN Launcher\ForestFN Launcher\obj\Debug\ForestFN Launcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\BiruFN\Desktop\ForestFN\ForestFN Launcher\ForestFN Launcher\obj\Debug\ForestFN_Launcher.Form1.resources
+C:\Users\BiruFN\Desktop\ForestFN\ForestFN Launcher\ForestFN Launcher\obj\Debug\ForestFN_Launcher.Properties.Resources.resources
+C:\Users\BiruFN\Desktop\ForestFN\ForestFN Launcher\ForestFN Launcher\obj\Debug\ForestFN Launcher.csproj.GenerateResource.cache
+C:\Users\BiruFN\Desktop\ForestFN\ForestFN Launcher\ForestFN Launcher\obj\Debug\ForestFN Launcher.csproj.CoreCompileInputs.cache
+C:\Users\BiruFN\Desktop\ForestFN\ForestFN Launcher\ForestFN Launcher\obj\Debug\ForestFN Launcher.csproj.CopyComplete
+C:\Users\BiruFN\Desktop\ForestFN\ForestFN Launcher\ForestFN Launcher\obj\Debug\ForestFN Launcher.exe
+C:\Users\BiruFN\Desktop\ForestFN\ForestFN Launcher\ForestFN Launcher\obj\Debug\ForestFN Launcher.pdb
+C:\Users\BiruFN\Desktop\ForestFN\ForestFN Launcher\ForestFN Launcher\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BiruFN\Desktop\ForestFN\ForestFN Launcher\ForestFN Launcher\bin\Debug\RestSharp.dll
+C:\Users\BiruFN\Desktop\ForestFN\ForestFN Launcher\ForestFN Launcher\bin\Debug\System.Buffers.dll
+C:\Users\BiruFN\Desktop\ForestFN\ForestFN Launcher\ForestFN Launcher\bin\Debug\System.Memory.dll
+C:\Users\BiruFN\Desktop\ForestFN\ForestFN Launcher\ForestFN Launcher\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BiruFN\Desktop\ForestFN\ForestFN Launcher\ForestFN Launcher\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BiruFN\Desktop\ForestFN\ForestFN Launcher\ForestFN Launcher\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\BiruFN\Desktop\ForestFN\ForestFN Launcher\ForestFN Launcher\bin\Debug\System.Text.Json.dll
+C:\Users\BiruFN\Desktop\ForestFN\ForestFN Launcher\ForestFN Launcher\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\BiruFN\Desktop\ForestFN\ForestFN Launcher\ForestFN Launcher\bin\Debug\System.ValueTuple.dll
+C:\Users\BiruFN\Desktop\ForestFN\ForestFN Launcher\ForestFN Launcher\bin\Debug\Newtonsoft.Json.dll
